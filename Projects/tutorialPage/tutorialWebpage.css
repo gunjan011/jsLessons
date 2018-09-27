@@ -1,0 +1,12 @@
+header {
+    margin: 0%;
+    font: azure;
+    font-family: cursive;
+    font-size: 50px;
+    }
+.nav {
+    width: 100%;
+    background-color: aliceblue;
+    overflow: auto;
+}
+
